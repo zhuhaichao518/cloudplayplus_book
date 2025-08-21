@@ -27,7 +27,6 @@ title = "搜索"
 description = "搜索 CloudPlayPlus 文档"
 limit-results = 30
 use-keyboard-shortcuts = true
-
 [output.html.theme]
 primary = "#2196F3"
 accent = "#FF4081"
@@ -40,3 +39,4 @@ line-number-start = 1
 copy-button = true
 copy-button-text = "复制"
 copy-button-success-text = "已复制！"
+
