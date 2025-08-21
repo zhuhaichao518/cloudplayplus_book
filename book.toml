@@ -27,9 +27,6 @@ title = "搜索"
 description = "搜索 CloudPlayPlus 文档"
 limit-results = 30
 use-keyboard-shortcuts = true
-[output.html.theme]
-primary = "#2196F3"
-accent = "#FF4081"
 
 [output.html.markdown]
 code-font-family = "Consolas, 'Monaco', 'Andale Mono', monospace"
