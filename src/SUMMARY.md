@@ -1,9 +1,8 @@
 # Summary
 
 - [介绍](./introduction.md)
-- [快速开始](./getting_started.md)
-- [安装指南](./installation.md)
 - [用户指南](./user_guide.md)
+  - [安装指南](./installation.md)
   - [主界面](./user_guide/main_interface.md)
   - [设备管理](./user_guide/device_management.md)
   - [游戏控制器](./user_guide/gamepad_controller.md)

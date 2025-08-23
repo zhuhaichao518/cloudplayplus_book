@@ -3,7 +3,7 @@ authors = ["CloudPlayPlus Team"]
 language = "zh-CN"
 src = "src"
 title = "CloudPlayPlus Book"
-description = "CloudPlayPlus 跨平台云游戏客户端的完整用户手册和开发者指南"
+description = "CloudPlayPlus dev and user handbook"
 
 [output.html]
 git-repository-url = "https://github.com/zhuhaichao518/cloudplayplus_book"
@@ -21,8 +21,8 @@ level = 1
 
 [output.html.search]
 enable = true
-title = "搜索"
-description = "搜索 CloudPlayPlus 文档"
+title = "search"
+description = "search CloudPlayPlus document"
 limit-results = 30
 use-keyboard-shortcuts = true
 
@@ -32,6 +32,6 @@ code-font-size = "14px"
 line-numbers = true
 line-number-start = 1
 copy-button = true
-copy-button-text = "复制"
-copy-button-success-text = "已复制！"
+copy-button-text = "copy"
+copy-button-success-text = "copied！"
 
