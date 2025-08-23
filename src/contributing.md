@@ -63,7 +63,7 @@ git --version      # 2.20.0 或更高
 #### 环境配置
 ```bash
 # 克隆项目
-git clone https://github.com/your-org/cloudplayplus.git
+git clone https://github.com/zhuhaichao518/cloudplayplus.git
 cd cloudplayplus
 
 # 获取依赖
@@ -480,9 +480,9 @@ my_plugin/
 5. **获得反馈** - 通过代码审查获得反馈
 
 ### 推荐的第一步
-- 查看 [Good First Issue](https://github.com/your-org/cloudplayplus/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- 查看 [Good First Issue](https://github.com/zhuhaichao518/cloudplayplus/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - 阅读 [快速开始指南](./getting_started.md)
 - 加入 [Discord 社区](https://discord.gg/cloudplayplus)
-- 查看 [贡献者指南](https://github.com/your-org/cloudplayplus/blob/main/CONTRIBUTING.md)
+- 查看 [贡献者指南](https://github.com/zhuhaichao518/cloudplayplus/blob/main/CONTRIBUTING.md)
 
 感谢您的贡献！🚀

@@ -336,7 +336,7 @@ A: 不需要，Apache License 2.0 不要求您开源修改后的代码。
 如果您对许可证有任何疑问，请联系：
 
 - **邮件**: legal@cloudplayplus.com
-- **GitHub**: https://github.com/your-org/cloudplayplus/issues
+- **GitHub**: https://github.com/zhuhaichao518/cloudplayplus/issues
 - **Discord**: https://discord.gg/cloudplayplus
 
 ### 法律咨询

@@ -67,7 +67,7 @@ git --version      # 2.20.0 或更高
 ### 环境配置
 ```bash
 # 克隆项目
-git clone https://github.com/your-org/cloudplayplus.git
+git clone https://github.com/zhuhaichao518/cloudplayplus.git
 cd cloudplayplus
 
 # 获取依赖
