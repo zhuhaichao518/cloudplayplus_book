@@ -2,7 +2,7 @@
 
 - [介绍](./introduction.md)
 - [用户指南](./user_guide.md)
-  - [安装指南](./installation.md)
+  - [安装指南](./user_guide/installation.md)
   - [主界面](./user_guide/main_interface.md)
   - [设备管理](./user_guide/device_management.md)
   - [游戏控制器](./user_guide/gamepad_controller.md)
@@ -19,7 +19,5 @@
   - [控制器 API](./api_reference/controllers.md)
   - [服务 API](./api_reference/services.md)
   - [实体 API](./api_reference/entities.md)
-- [配置参考](./configuration.md)
-- [故障排除](./troubleshooting.md)
 - [贡献指南](./contributing.md)
 - [许可证](./license.md)
