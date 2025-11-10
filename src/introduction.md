@@ -3,7 +3,7 @@
 ## 快速开始
 [用户指南](./user_guide.md)
 
-[开发者指南](./developer_guide.md)
+[常见问题解答](./faq.md)
 
 ## 什么是 CloudPlayPlus？
 
@@ -23,7 +23,7 @@ CloudPlayPlus的性能优于大部分市面上的远程软件。在适配的设�
 
 ### 🖥️ 多平台兼容性
 - **桌面平台**: Windows、macOS、Linux(待发布，可自行编译)
-- **移动平台**: iOS、 Android、Android TV
+- **移动平台**: iOS、Android、Android TV
 - **Web 平台**: 支持Chrome、Edge等主流浏览器作为控制端
 
 ### 🎮 游戏控制器支持
@@ -54,7 +54,7 @@ CloudPlayPlus的性能优于大部分市面上的远程软件。在适配的设�
 ## 技术架构
 
 CloudPlayPlus 使用Flutter进行开发，旨在减少平台之间的差异。
-对于远程桌面送显的性能瓶颈，考虑使用Native进行渲染。
+对于远程桌面送显的性能瓶颈，未来考虑使用Native进行渲染。
 CloudPlayPlus 的所有功能均通过Flutter及其插件进行实现。
 核心插件
 - **flutter-webrtc**: 将Webrtc集成到flutter的插件。CloudPlayPlus通过修改其API以及WebRTC中抓取编码逻辑实现抓取音频，视频硬件加速等功能。

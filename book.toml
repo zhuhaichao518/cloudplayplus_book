@@ -1,37 +1,6 @@
 [book]
-authors = ["CloudPlayPlus Team"]
+authors = ["zhuhaichao518"]
 language = "zh-CN"
+multilingual = false
 src = "src"
 title = "CloudPlayPlus Book"
-description = "CloudPlayPlus dev and user handbook"
-
-[output.html]
-git-repository-url = "https://github.com/zhuhaichao518/cloudplayplus_book"
-git-repository-icon = "fa-github"
-site-url = "/"
-site-title = "CloudPlayPlus Book"
-site-description = "CloudPlayPlus 跨平台云游戏客户端的完整用户手册和开发者指南"
-default-theme = "light"
-preferred-dark-theme = "dark"
-edit-url-template = "https://github.com/zhuhaichao518/cloudplayplus_book/edit/main/src/{path}"
-
-[output.html.fold]
-enable = true
-level = 1
-
-[output.html.search]
-enable = true
-title = "search"
-description = "search CloudPlayPlus document"
-limit-results = 30
-use-keyboard-shortcuts = true
-
-[output.html.markdown]
-code-font-family = "Consolas, 'Monaco', 'Andale Mono', monospace"
-code-font-size = "14px"
-line-numbers = true
-line-number-start = 1
-copy-button = true
-copy-button-text = "copy"
-copy-button-success-text = "copied！"
-
