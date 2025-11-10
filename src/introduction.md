@@ -13,7 +13,7 @@
 
 - 作为串流软件，你可以将它用来替代作为parsec,moonlight的替代品，减少网络问题带来的不便。
 
-CloudPlayPlus的核心在于其易用性。安装软件后，你无需进行任何麻烦的配置，也无需搭建虚拟网络即可随时随地连接到自己的设备)。你可以使用[网页](https://cloudplayplus.com/web1/)作为控制端。
+CloudPlayPlus的核心在于其易用性。安装软件后，你无需进行任何麻烦的配置，也无需搭建虚拟网络即可随时随地连接到自己的设备。你可以使用[网页](https://cloudplayplus.com/web1/)作为控制端。
 
 CloudPlayPlus的性能优于大部分市面上的远程软件。在适配的设备上，CloudPlayPlus充分调用了设备的显卡性能，旨在以最小的资源消耗达到最优的串流体验。在不适配的设备上，CloudPlayPlus会调用CPU进行编码。[适配情况](TODO)
 
@@ -58,11 +58,11 @@ CloudPlayPlus 使用Flutter进行开发，旨在减少平台之间的差异。
 CloudPlayPlus 的所有功能均通过Flutter及其插件进行实现。
 核心插件
 - **flutter-webrtc**: 将Webrtc集成到flutter的插件。CloudPlayPlus通过修改其API以及WebRTC中抓取编码逻辑实现抓取音频，视频硬件加速等功能。
-- **hardware_simulator**: CloudPlayPlus团队实现的硬件模拟器。支持模拟键盘/鼠标/手柄/虚拟显示器等硬件。
+- **hardware_simulator**: CloudPlayPlus团队实现的硬件模拟器。支持监听和模拟键盘/鼠标/手柄/虚拟显示器等硬件行为。
 
 ## 许可证
 
-CloudPlayPlus 采用[GNU GPL3许可证](./license.md) 。
+CloudPlayPlus 采用[GNU GPL3许可证](./license.md)。对于任何遵从许可证的行为, CloudPlayPlus团队保有法律追诉的权利。
 
 ## 下一步
 
