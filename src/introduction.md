@@ -2,7 +2,9 @@
 
 ## 快速开始
 [用户指南](./user_guide.md)
-[安装指南](./user_guide/installation.md) - 详细的安装说明
+
+[安装指南](./user_guide/installation.md)
+
 [常见问题解答](./faq.md)
 
 ## 什么是 CloudPlayPlus(云玩加)？
