@@ -2,10 +2,10 @@
 
 ## 快速开始
 [用户指南](./user_guide.md)
-
+[安装指南](./user_guide/installation.md) - 详细的安装说明
 [常见问题解答](./faq.md)
 
-## 什么是 CloudPlayPlus？
+## 什么是 CloudPlayPlus(云玩加)？
 
 [CloudPlayPlus](https://cloudplayplus.com) 是一款功能强大的跨平台串流应用，它支持你从你能想象到的绝大部分设备查看和操作安装了CloudPlayPlus桌面端的个人电脑。
 
@@ -31,9 +31,12 @@ CloudPlayPlus的性能优于大部分市面上的远程软件。在适配的设�
 
 - 如果虚拟化手柄未生效，请确认ViGEm Bus已安装。他被打包在CloudPlayPlus主安装文件中，你也可在安装好的文件夹中找到它的安装包。如果你使用很旧版本的[Sunshine](https://github.com/LizardByte/Sunshine)，也可能因为ViGEm Bus版本的兼容性导致无法初始化虚拟手柄。
 
+### 🖥️🖥️ 虚拟显示器支持
+- CloudPlayPlus支持创建和配置虚拟显示器。利用此功能，你可以将手上的任何设备作为副屏使用!
+
 ### ⚡️ 低延迟，高性能
 
-## 目标用户/场景
+## 使用场景场景
 
 ### 办公
 - 提供二级密码认证
@@ -53,7 +56,7 @@ CloudPlayPlus的性能优于大部分市面上的远程软件。在适配的设�
 
 ## 技术架构
 
-CloudPlayPlus 使用Flutter进行开发，旨在减少平台之间的差异。
+CloudPlayPlus 使用Flutter框架进行开发，旨在减少平台之间的差异。
 对于远程桌面送显的性能瓶颈，未来考虑使用Native进行渲染。
 CloudPlayPlus 的所有功能均通过Flutter及其插件进行实现。
 核心插件
@@ -67,5 +70,5 @@ CloudPlayPlus 采用[GNU GPL3许可证](./license.md)。对于任何遵从许可
 ## 下一步
 
 - [快速开始](./getting_started.md) - 了解如何快速上手 CloudPlayPlus
-- [安装指南](./installation.md) - 详细的安装说明
+- [安装指南](./user_guide/installation.md) - 详细的安装说明
 - [用户指南](./user_guide.md) - 完整的使用教程
